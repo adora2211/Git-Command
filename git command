@@ -1,5 +1,15 @@
    git config --global user.name adora2211
-   git config --global user.email niveditakumaricareer@gmail.com\\\\\
+   git config --global user.email niveditakumaricareer@gmail.com
    git config --global user.email
    git config --global user.name
-   git init
+   
+git init
+git status
+git add .
+git status
+git commit -m "git command"
+git status
+touch sqlCommand
+git status
+git add .
+git status
