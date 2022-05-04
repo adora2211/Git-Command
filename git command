@@ -2,7 +2,7 @@
    git config --global user.email niveditakumaricareer@gmail.com
    git config --global user.email
    git config --global user.name
-   
+
 git init
 git status
 git add .
@@ -13,3 +13,6 @@ touch sqlCommand
 git status
 git add .
 git status
+
+git checkout <file_name>
+git checkout -f
