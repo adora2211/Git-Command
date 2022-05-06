@@ -16,3 +16,9 @@ git status
 
 git checkout <file_name>
 git checkout -f
+
+git log 
+git log -p -5 
+
+
+git diff 
