@@ -27,3 +27,27 @@ git commit -a -m "msg"
 
 #change file staged area to working directory
 git rm --cached waste.html
+
+ git branch feature1
+   61  git branch
+   62  git checkout feature1
+   63  git status
+   64  git add .
+   65  git commit -m "added"
+   66  git status
+   67  git checkout master
+   68  git status
+   69  git log -2
+   70  git merge feature1
+   71  git status
+   72  git remote add origin git@github.com:adora2211/Git-Command.git
+   73  git push -u origin main
+   74  git remote -v
+   75  git push -u origin master
+
+ 82  git remote add origin git@github.com:adora2211/Git-Command.git
+ 83  git push -u origin master
+
+89 git remote set-url origin git@github.com:adora2211/Git-Command.git
+90  git push -u origin master
+
