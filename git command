@@ -22,3 +22,8 @@ git log -p -5
 
 
 git diff 
+#commit and add whole file
+git commit -a -m "msg"
+
+#change file staged area to working directory
+git rm --cached waste.html
